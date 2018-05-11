@@ -1,0 +1,17 @@
+﻿.hdr
+{
+background: #000; /* rgb(0,255,0) */
+top: 0;
+left: 0;
+right: 0;
+position: fixed;
+}
+.bdy
+{
+background: #0F0; /* rgb(0,255,0) */
+text-align: center;
+}
+.ftr
+{
+background: #00F; /* rgb(0,0,255) */
+}
